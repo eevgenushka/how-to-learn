@@ -198,6 +198,7 @@ margin: 0;
   font-size: 18px;
   font-weight: normal;
   font-style: normal;
+  display: block;
 }
 
 .table__text:last-child {
