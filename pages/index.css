@@ -26,6 +26,11 @@
 @import url(../blocks/video/video__iframes/video__iframes.css);
 @import url(../blocks/oakley/oakley.css);
 @import url(../blocks/two-columns/two-columns.css);
+@import url(../blocks/two-columns/__brief/two-columns__brief.css);
+@import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
+@import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
+@import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
+@import url(../blocks/two-columns/__brief/two-columns__brief.css);
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/khan/khan.css);
 @import url(../blocks/khan/__title/khan__title.css);
